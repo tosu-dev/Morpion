@@ -8,4 +8,4 @@ Execute the file '*main.py*' to launch the game !
 I started this project to improve with pygame and because I was bored so I decided to do this.
 I hope the code is fine !
 
-**Thanks you !**
+**Thank you !**
