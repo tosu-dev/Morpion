@@ -1,11 +1,8 @@
 # Morpion
-This is a tic-tac-toe game that I made in only 1 day with pygame. 
+This is a tic-tac-toe game that I made in only 1 day with pygame.
+It is a 2 player game, there isn't an IA to play against.
 
 # How to run
-Execute the file '*main.py*' to launch the game !
+Execute the file _main.py_ to launch the game.
 
-# More about
-I started this project to improve with pygame and because I was bored so I decided to do this.
-I hope the code is fine !
-
-**Thank you !**
+![Morpion_img](https://user-images.githubusercontent.com/59777055/163551554-9bc025fb-12b3-437f-b655-c648a13edab4.PNG)
